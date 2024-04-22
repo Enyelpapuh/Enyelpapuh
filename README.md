@@ -21,7 +21,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyelpapuh&layout=donut&theme=dark#gh-dark-mode-only" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enyelpapuh&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/enyelpapuh/github-readme-stats&theme=default#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyelpapuh&layout=donut&theme=default#gh-light-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eyelpapuh&card_width=320&show_icons=true&theme=default#gh-light-mode-only" />
-</a>
