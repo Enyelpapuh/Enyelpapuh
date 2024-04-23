@@ -17,7 +17,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My stats :chart_with_upwards_trend:
-<a href="https://github.com/enyelpapuh/github-readme-stats&theme=dark#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyelpapuh&layout=donut&theme=dark#gh-dark-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enyelpapuh&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
+![GitHub streak](https://streak-stats.demolab.com/?user=enyelpapuh&theme=dracula)
+![GitHub stats](https://github-stats-git-master-enyelpapuh-projects.vercel.app/api?username=enyelpapuh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![Starred languages](https://github-stats-git-master-enyelpapuh-projects.vercel.app/api/top-langs/?username=enyelpapuh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400&card_height=600)
