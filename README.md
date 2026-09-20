@@ -1,6 +1,7 @@
-# Hola , Soy Enyel Baltodano
+# Hi everyone! 🖖 My name Is Enyel
 
-He estado trabajando con diversas tecnologías para crear aplicaciones web:
+
+I have worked with different tools for application development
 
 ## 🛠️ Habilidades
 
